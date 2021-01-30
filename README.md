@@ -1,7 +1,7 @@
 # basic_blog
 A basic blog web app using django
 
-#Start web app
+# Start web app
 
 
     $ pipenv shell
@@ -11,7 +11,7 @@ A basic blog web app using django
     (blog) $ python manage.py runserver
     # Load the site at http://127.0.0.1:8000'
  
-#Run Test
+# Run Test
 
 
     (blog) $ python manage.py test'
