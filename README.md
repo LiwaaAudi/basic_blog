@@ -3,9 +3,8 @@ A basic blog web app using django
 
 # Start web app
 
-
-    $ pipenv shell
     $ pipenv install
+    $ pipenv shell
     (blog) $ python manage.py migrate
     (blog) $ python manage.py createsuperuser
     (blog) $ python manage.py runserver
