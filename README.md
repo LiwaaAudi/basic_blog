@@ -13,4 +13,4 @@ A basic blog web app using django
 # Run Test
 
 
-    (blog) $ python manage.py test'
+    (blog) $ python manage.py test
